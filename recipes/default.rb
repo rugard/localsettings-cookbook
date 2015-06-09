@@ -6,5 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-
 include_recipe "timezone-ii" 
+include_recipe "ntp" 
+
